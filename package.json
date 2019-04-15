@@ -1,0 +1,27 @@
+{
+  "name": "mycommon",
+  "version": "1.0.0",
+  "description": "前端基础库",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuchaowork/mycommon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuchaowork/mycommon/issues"
+  },
+  "homepage": "https://github.com/wuchaowork/mycommon#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0"
+  }
+}
